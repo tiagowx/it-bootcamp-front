@@ -1,2 +1,3 @@
-# it-unidade1
-# Atividade da unidade 1
+# iTalent - Bootcamp Front-end Development
+
+## Atividade da unidade 1
